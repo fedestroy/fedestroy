@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedestroy
 - 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning python, html, css, java, js & gitbash
 - 💞️ I’m looking to collaborate on proyects  
 - 📫 How to reach me, still not possible
 - 😄 Pronouns: he/him
